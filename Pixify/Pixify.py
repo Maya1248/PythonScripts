@@ -1,10 +1,6 @@
 from PIL import Image
 import numpy as np
 
-
-
-#acolors = [white,black,red,green,blue,purple]
-
 def help():
     print("Time for the program to finish depends on the image size.")
     print("")
