@@ -1,0 +1,14 @@
+To Do:
+
+
+Changelog:
+ -- Version 0.3.1
+    --- Corrected the training algorithm
+    --- Converted to 2-hidden layer model
+
+ -- Version 0.2.1
+    --- Automatic model initialization: given neuron amounts
+    --- Converted to multi-perceptron with matrices
+
+ -- Version 0.1.1
+    --- Basic 3-perceptron model
