@@ -1,0 +1,3 @@
+Very old code I've made somewhere in high school.
+The image is of my younger self.
+Simple PyGame to catch the ball. The ball "intelligently" tries to avoid you.
