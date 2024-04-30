@@ -1,2 +1,2 @@
-A simple pixle art program.
+A simple pixel art program.
 Fully finished.
