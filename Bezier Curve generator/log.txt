@@ -1,0 +1,2 @@
+Simple bezier curve generator program I've developed by studying the mathematics shown in an animated youtube video.
+Fully finished.
